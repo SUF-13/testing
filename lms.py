@@ -26,3 +26,5 @@ class LibraryManagementSystem:
             print("Registered users:")
             for user in self.users:
                 print(f"- {user}")
+        print("End of user list.")
+        print("Total users:", len(self.users))
