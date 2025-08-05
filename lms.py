@@ -28,3 +28,4 @@ class LibraryManagementSystem:
                 print(f"- {user}")
         print("End of user list.")
         print("Total users:", len(self.users))
+        print("End of user list.")
